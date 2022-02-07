@@ -17,7 +17,6 @@ public class Main {
     static JFrame frame = new JFrame("Guess the number");
     public static void main(String[] args) {
         openUI();
-        //newRound();
     }
 
     public static void openUI () {
